@@ -1,0 +1,7 @@
+{
+  "name": "MOVISTORE AI",
+  "description": "A production-grade, AI-powered movie recommendation platform featuring mood detection, natural language search, and personalized dashboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
